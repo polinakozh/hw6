@@ -28,7 +28,11 @@
 
 ## Бонусное задание
 
-Для выполнения этого задания я сравнила данные об уотреблении словоформы "lion" в Trends (корпус BNC) и Google Ngrams. 
+Для выполнения этого задания я сравнила данные об уотреблении словоформы "lion" в Trends (корпус BNC) и Google Ngrams.
+
+Данные из Trends (корпус BNC)
 ![](https://github.com/polinakozh/hw6/blob/master/%D0%91%D0%BE%D0%BD%D1%83%D1%81%D0%BD%D1%8B%D0%B9%202.png)
+
+Данные из Google Ngrams
 ![](
 
