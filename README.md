@@ -4,4 +4,4 @@
 ### № 1
 ![](https://github.com/polinakozh/hw6/blob/master/%D1%86%D0%B3%201.png)
 ### № 2
-![](
+![](https://github.com/polinakozh/hw6/blob/master/%D1%86%D0%B3%202.png)
