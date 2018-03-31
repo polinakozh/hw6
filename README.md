@@ -12,4 +12,6 @@
 
 ## Часть 2
 ### № 1
+#### question (noun) Alternative PoS: verb (4,543)
+#### British National Corpus (BNC) freq = 38,111 (339.22 per million)
 ![](https://github.com/polinakozh/hw6/blob/master/%D1%87%D0%B0%D1%81%D1%82%D1%8C%202.%201.png)
